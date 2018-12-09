@@ -1,0 +1,12 @@
+# Possible values are Chrome, IE & FIREFOX
+BrowserName=Chrome
+
+AppURL=https://www.expedia.com/
+
+ChromeDriverPath=src\\test\\resources\\chromedriver.exe
+GeckoDriverPath=src\\test\\resources\\geckodriver.exe
+IEDriverPath=src\\test\\resources\\IEDriverServer.exe
+
+MINWAITTIME=5
+AVGWAITTTIME=25
+MAXWAITTIME=120
